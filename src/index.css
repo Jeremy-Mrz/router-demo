@@ -1,0 +1,16 @@
+nav{
+  display: flex;
+  gap: 16px;
+}
+
+nav .links{
+  display: flex;
+  gap: 16px;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
